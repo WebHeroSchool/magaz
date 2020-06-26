@@ -1,0 +1,69 @@
+body {
+  font-family: 'Comfortaa', cursive;
+}
+.heading {
+  border: dashed #8bc63e;
+  background: red;
+  height: 220px;
+  width: 300px;
+  }
+
+.heading__title {
+  font-family: 'Jura', sans-serif;
+  color: blue;
+  text-align: center;
+  letter-spacing: 0.5em;
+}
+
+.main {
+  padding-right: 15px;
+  padding-left: 15px;
+  height: 170px;
+  background: yellow;
+  border-radius: 2em;
+  box-shadow: 3px 3px;
+}
+
+.main__btn, .heading__btn {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: #2196f3;
+  width: 150px;
+  float: right;
+  }
+
+.main__title {
+  font-family: 'Jura', sans-serif;
+  color: green;
+  }
+
+.main__text{
+  color: red;
+  }
+
+.footer {
+  margin: 20px;
+  padding: 3px;
+  border-radius: 10px 20px;
+  background: orange;
+  
+}
+
+.footer__title {
+  font-family: 'Jura', sans-serif;
+  color: red;
+  text-align: center;
+}
+
+.footer__text {
+  font-size: 35px;
+  text-align: center;
+  }
+
+.footer__btn {
+  font-family: 'Comfortaa', cursive;
+  margin-left: 150px;
+  text-align: center;
+  color: #2196f3;
+  width: 150px;
+ }
